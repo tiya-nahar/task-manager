@@ -3,12 +3,11 @@ This is a Task Management System for small teams to create, assign, track, and m
 
 ⚙️ Setup Instructions
 1️⃣ Clone the repository
-
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/tiya-nahar/task-manager.git
 cd your-repo
 2️⃣ Set up the environment file
 Create a .env file based on .env.example:
-
+(you can refer to .env in zip file)
 cp .env.example .env
 Fill in your database URL, JWT secret, and other necessary environment variables.
 
